@@ -24,12 +24,6 @@ End the program
 
 ## Program:
 
-DEVELOPED BY: MOHAMMED SAAJID S
-
-REGISTER NUMBER:212223240093
-
-PROGRAM TO FIND THE INVERSE OF THE MATRIX
-
 ```
 #Program to find the inverse of a matrix.
 #Developed by: ARJUN N S

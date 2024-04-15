@@ -32,13 +32,12 @@ PROGRAM TO FIND THE INVERSE OF THE MATRIX
 
 ```
 #Program to find the inverse of a matrix.
-#Developed by: MOHAMMED SAAJID S
-#RegisterNumber: 212223240093
+#Developed by: ARJUN N S
+#RegisterNumber: 212223230020
 import numpy as np
-A = np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
-result = np.linalg.inv(A)
-print(result)
-
+A=np.array([[6,2,3],[3,1,1],[10,3,4]])
+inverse=np.linalg.inv(A)
+print(inverse)
 ```
 
 ## Output:
